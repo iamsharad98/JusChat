@@ -20,3 +20,5 @@ Check the status of your message whether your message has been delievered and re
 Check stories of strangers and start connecting with new people.<br />
 <br />
 ### Install JusChat Free Messenger Now and Start Connecting!<br />
+### You can download it from here:
+https://play.google.com/store/apps/details?id=com.bekaim.juschat
