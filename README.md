@@ -1,7 +1,8 @@
 # JusChat
 JusChat- A free messaging app to connect with world
 
-### I made this repo a private repository. But, you will soon be able to get Google Play Store link and can use it on your own phone.
+### I made this repo a private repository. But, you can download this app from Google Play Store.
+### https://play.google.com/store/apps/details?id=com.bekaim.juschat
 
 <img src="images/screenshot_4.png" alt="screenShot" height="350" width="200"><img src="images/screenshot_2.png" alt="screenShot" height="350" width="200"><img src="images/screenshot_3.png" alt="screenShot" height="350" width="200"><img src="images/screenshot_1.png" alt="screenShot" height="350" width="200">
 
